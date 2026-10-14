@@ -1,0 +1,101 @@
+LISTE DES CARTES — nomme ton image  images/<id>.jpg  (ou .png / .webp)
+Total: 89 cartes
+
+=== MYTHIQUE ===
+jul.jpg                -> Jul
+zidane.jpg             -> Le Coup de Boule
+risitas.jpg            -> El Risitas
+cheikh.jpg             -> « Cheikh, t'as pas volé de pain ? »
+defunes.jpg            -> Louis de Funès
+rickroll.jpg           -> Rickroll
+mbappe.jpg             -> Kylian Mbappé
+
+=== LEGENDAIRE ===
+taisezvous.jpg         -> « Taisez-vous ! »
+booba.jpg              -> Booba
+squeezie.jpg           -> Squeezie
+inoxtag.jpg            -> Inoxtag
+mrbeast.jpg            -> MrBeast
+ronaldo.jpg            -> Cristiano Ronaldo
+messi.jpg              -> Lionel Messi
+omarsy.jpg             -> Omar Sy
+footchange.jpg         -> « Le football il a changé »
+doge.jpg               -> Doge
+keanu.jpg              -> Keanu Reeves
+henry.jpg              -> Thierry Henry
+goku.jpg               -> Le Kaméhaméha
+
+=== EPIQUE ===
+nonmaisallo.jpg        -> « Non mais allô quoi »
+travaux.jpg            -> « C'est pour les travaux ? »
+sergentchef.jpg        -> « Non, sergent-chef ! »
+kaaris.jpg             -> Kaaris
+gims.jpg               -> GIMS
+orelsan.jpg            -> Orelsan
+michou.jpg             -> Michou
+benzema.jpg            -> Karim Benzema
+speed.jpg              -> IShowSpeed
+pogba.jpg              -> Paul Pogba
+griezmann.jpg          -> Antoine Griezmann
+jamel.jpg              -> Jamel Debbouze
+stromae.jpg            -> Stromae
+aya.jpg                -> Aya Nakamura
+giroud.jpg             -> Olivier Giroud
+naruto.jpg             -> Naruto
+onepiece.jpg           -> One Piece
+dbz.jpg                -> Dragon Ball
+gigachad.jpg           -> GigaChad
+
+=== RARE ===
+pnl.jpg                -> PNL
+nabilla.jpg            -> Nabilla
+lena.jpg               -> Léna Situations
+harold.jpg             -> Hide the Pain Harold
+hanouna.jpg            -> Cyril Hanouna
+astier.jpg             -> Alexandre Astier
+kevadams.jpg           -> Kev Adams
+dubosc.jpg             -> Franck Dubosc
+misterv.jpg            -> Mister V
+cyprien.jpg            -> Cyprien
+gadelmaleh.jpg         -> Gad Elmaleh
+bruel.jpg              -> Patrick Bruel
+riner.jpg              -> Teddy Riner
+omartuer.jpg           -> « Omar m'a tuer »
+deathnote.jpg          -> Death Note
+jjk.jpg                -> Jujutsu Kaisen
+zelda.jpg              -> The Legend of Zelda
+mario.jpg              -> Super Mario
+minecraft.jpg          -> Minecraft
+skibidi.jpg            -> Skibidi Toilet
+saltbae.jpg            -> Salt Bae
+grumpy.jpg             -> Grumpy Cat
+rizz.jpg               -> Le Rizz
+
+=== COMMUN ===
+quoicoubeh.jpg         -> Quoicoubeh
+apagnan.jpg            -> Apanyae
+rene.jpg               -> René la Taupe
+cpf.jpg                -> « C'est pas faux »
+wesh.jpg               -> « Wesh alors »
+frerot.jpg             -> « Frérot »
+jpp.jpg                -> « J'en peux plus »
+bonap.jpg              -> « Bon ap »
+ratio.jpg              -> « Ratio + L »
+askip.jpg              -> « Askip »
+sensfout.jpg           -> « Tout le monde s'en fout »
+pepe.jpg               -> Pepe the Frog
+wojak.jpg              -> Wojak
+troll.jpg              -> Trollface
+stonks.jpg             -> Stonks
+nyan.jpg               -> Nyan Cat
+amongus.jpg            -> Among Us (sus)
+ohio.jpg               -> Only in Ohio
+sigma.jpg              -> Sigma Male
+fanumtax.jpg           -> Fanum Tax
+baguette.jpg           -> La Baguette
+kebab.jpg              -> Le Kebab
+tacos.jpg              -> Le French Tacos
+raclette.jpg           -> La Raclette
+nutella.jpg            -> Nutella
+chocolatine.jpg        -> Pain au chocolat / Chocolatine
+painozero.jpg          -> « T'as pris le pain ? »

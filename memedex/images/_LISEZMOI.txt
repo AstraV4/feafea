@@ -1,0 +1,25 @@
+COMMENT AJOUTER LES VRAIES IMAGES DES MÈMES
+============================================
+
+Chaque carte cherche son image ici, dans ce dossier "images/".
+
+RÈGLE : le nom du fichier = l'identifiant de la carte + .jpg
+  Exemples :
+    jul.jpg          -> carte "Jul"
+    cheikh.jpg       -> carte "Cheikh, t'as pas volé de pain ?"
+    travaux.jpg      -> carte "C'est pour les travaux ?"
+    pogba.jpg        -> carte "Paul Pogba"
+
+- La liste complète des noms à utiliser est dans :  _LISTE_CARTES.txt
+- Formats acceptés : .jpg (en priorité), sinon .png ou .webp
+- Si une image manque, la carte affiche un joli visuel stylisé à la place
+  (le jeu reste 100% jouable sans toutes les images).
+- Idéal : images verticales (portrait), ~500 à 900 px de large.
+
+OÙ TROUVER LES IMAGES :
+- Fais une capture d'écran du mème / une photo de la personnalité.
+- Renomme-la avec l'identifiant (ex: risitas.jpg) et glisse-la ici.
+- Sur GitHub : ouvre le dossier images/ -> Add file -> Upload files.
+
+Astuce : commence par les cartes rares (Mythiques, Légendaires),
+ce sont celles qu'on voit le plus à l'ouverture des boosters.
